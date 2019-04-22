@@ -1,0 +1,3 @@
+Resolusi
+- Learn Python
+- Learn Laravel
