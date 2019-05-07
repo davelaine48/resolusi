@@ -1,6 +1,9 @@
 - Javascript
   *ES6
   *Framework
+   ^ Vue
 - Data Structure
+- PHP Frameworks
+  ^ Laravel
 - Python
 - CSS
