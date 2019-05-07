@@ -2,6 +2,7 @@
   *ES6
   *Framework
    ^ Vue
+   ^ React
 - Data Structure
 - PHP Frameworks
   ^ Laravel
