@@ -1,6 +1,9 @@
 - Javascript
   *ES6
   *Framework
-- Data Structure
+   ^ Angular
+   ^ React
+- PHP Framework
+  ^ Laravel
 - Python
 - CSS
