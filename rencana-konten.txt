@@ -1,5 +1,6 @@
 - Javascript
   *ES6
   *Framework
+- Data Structure
 - Python
 - CSS
